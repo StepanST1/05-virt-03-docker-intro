@@ -63,8 +63,6 @@ Hey, Netology
 
 ### Ответ
 
-Пополнение баланса телефона - со стороны оператора связи
-
 ```
 root@cicd:~/custom-nginx# docker pull thebad1996/custom-nginx:1.0.0
 1.0.0: Pulling from thebad1996/custom-nginx
